@@ -54,7 +54,7 @@ I thrive on challenges that involve
 
 ## 🏆🚀 Cerificates
 
-- 📧 HTML: ![img19](https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f) width: 100px; 
+- 📧 HTML: <img src="https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f"/>
 
 - 📧 CSS:![img19 (1)](https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87)
 
