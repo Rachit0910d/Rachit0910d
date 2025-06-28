@@ -1,24 +1,26 @@
 <p align="center">
-  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:50%; max-width:150px; border-radius:50%;" />
+  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:100%; max-width:250px; border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Rachit Saini 👋</h1>
 
 <p align="center">
-## 💼<strong>About Me</strong></p>
-<p>
-As a student, I’m an enthusiastic and growth-oriented learner with a passion for:
-  
+🎓 <strong>First-year B.Tech student at AKGEC | Future AI/ML Engineer 🚀</strong><br>
+I'm a passionate learner driven by curiosity and innovation. With a strong interest in DSA, web development, and AI/ML, I enjoy solving complex problems, building full-stack applications, and exploring how intelligent systems can shape a better future. Always eager to learn, collaborate, and create meaningful tech!
+</p>
+
+---
+
+## 💼 About Me
+I'm currently pursuing my B. Tech from **Ajay Kumar Garg Engineering College, Ghaziabad**.  
+As a 1st-year student, I’m an enthusiastic and growth-oriented learner with a passion for:
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms  
 - Web Development  
 
-I thrive on challenges that involve 
-                                    logical thinking, 
-                                    creative problem-solving, 
-                                    developing real-world solutions.
+I thrive on challenges that involve logical thinking, creative problem-solving, and developing real-world solutions.
 
----</p>
+---
 
 ## 🚀 What I'm Working On
 - Solving DSA problems on platforms like **LeetCode**
@@ -41,48 +43,66 @@ I thrive on challenges that involve
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Badge" />
 </p>
+
+<p align="center">
+  <strong>Languages:</strong> Python, Java, JavaScript, HTML, CSS<br>
+  <strong>Frameworks/Libraries:</strong> React, Node.js<br>
+  <strong>Tools:</strong> Git, GitHub<br>
+  <strong>Focus Areas:</strong> DSA, Full-Stack Web Dev, AI/ML, NLP
+</p>
+
 ---
 
 ## 🏆 Interests & Focus Areas
-- 📘 Java Core Concepts & OOP
-- 🧠 AI, Machine Learning, Deep Learning, NLP
-- 💡 Competitive Programming with DSA
-- 🌐 Full-Stack Web Development
+- 📘 Java Core Concepts & OOP  
+- 🧠 AI, Machine Learning, Deep Learning, NLP  
+- 💡 Competitive Programming with DSA  
+- 🌐 Full-Stack Web Development  
 - 🔧 Git, GitHub, and Version Control
 
 ---
 
-## 🏆🚀 Cerificates
--
-<p>
-- 📧 <strong>HTML :</strong>
-- <img src="https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f"/>
-<hr>
+## 🏅 Certifications
+
+<p align="center">
+  <img src="assets/certificates/html.jpg" alt="HTML Certificate by KnowledgeGate" width="70%" />
+</p>
+<p align="center">
+  <b>HTML Certification Test – KnowledgeGate YouTube Course</b><br>
+  <i>Certificate Number: 11732472219998860626668</i><br>
+  <a href="https://learn.knowledgegate.ai/learn/certificate/11732472219998860626668" target="_blank">Verify Here</a>
 </p>
 
-<p>
-- 📧 <strong>CSS :</strong>
-- <img src="https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87"/>
-<hr>
+---
+
+<p align="center">
+  <img src="assets/certificates/css.jpg" alt="CSS Certificate by KnowledgeGate" width="70%" />
+</p>
+<p align="center">
+  <b>CSS Certification Test – KnowledgeGate YouTube Course</b><br>
+  <i>Certificate Number: 11732472219947860626637</i><br>
+  <a href="https://learn.knowledgegate.ai/learn/certificate/11732472-219947" target="_blank">Verify Here</a>
 </p>
 
-<p>
-- 📧 <strong>AI Tools WorkShop :</strong>
-- <img src="https://github.com/user-attachments/assets/8987f4b5-e017-4a1e-8504-cda87bcd7a67"/>
-<hr>
+---
+
+<p align="center">
+  <img src="assets/certificates/be10x.jpg" alt="AI Tools Certificate by be10x" width="70%" />
+</p>
+<p align="center">
+  <b>AI Tools & ChatGPT Workshop – be10x</b><br>
+  <i>Issued on: April 6th, 2025</i>
 </p>
 
-<p>
-- 📧 <strong>First HACKATHON : Vibethon</strong>
-- <img src="https://github.com/user-attachments/assets/ea696be9-b706-47fa-8204-2a25d4db73e6"/>
-  <hr>
-</p>
+---
 
-## 🤝 Let’s Connect!
-- 📧 Email: **rachit.rrr2005@gmail.com**  
-- 💼 LinkedIn: [Rachit Saini](www.linkedin.com/in/rachit-saini-61638b318)  
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)  
-- 🌐 Portfolio (optional): [yourportfolio.com](https://yourportfolio.com)
+<p align="center">
+  <img src="assets/certificates/vibethon.jpg" alt="Hackathon Participation Certificate – VIBE-A-THON" width="70%" />
+</p>
+<p align="center">
+  <b>Participation – VIBE-A-THON Hackathon (May Edition)</b><br>
+  <i>Organized by Geek Room, May 25th, 2025</i>
+</p>
 
 ---
 
