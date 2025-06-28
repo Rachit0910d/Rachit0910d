@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:100%; max-width:350px; border-radius:50%;" />
+  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:100%; max-width:250px; border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Rachit Saini 👋</h1>
@@ -52,8 +52,19 @@ I thrive on challenges that involve
 
 ---
 
+## 🏆🚀 Cerificates
+
+- 📧 HTML: ![img19](https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f)
+
+- 📧 CSS:![img19 (1)](https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87)
+
+- 📧 AI Tools: ![Certificate_page-0001](https://github.com/user-attachments/assets/8987f4b5-e017-4a1e-8504-cda87bcd7a67)
+
+- 📧 First Hackathon: ![WhatsApp Image 2025-05-26 at 05 54 47_20bfbd7e](https://github.com/user-attachments/assets/ea696be9-b706-47fa-8204-2a25d4db73e6)
+
+
 ## 🤝 Let’s Connect!
-- 📧 Email: *rachit.rrr2005@gmail.com**  
+- 📧 Email: **rachit.rrr2005@gmail.com**  
 - 💼 LinkedIn: [Rachit Saini](www.linkedin.com/in/rachit-saini-61638b318)  
 - 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)  
 - 🌐 Portfolio (optional): [yourportfolio.com](https://yourportfolio.com)
