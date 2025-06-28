@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:100%; max-width:250px; border-radius:50%;" />
+  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:100%; max-width:150px; border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Rachit Saini 👋</h1>
