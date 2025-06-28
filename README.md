@@ -43,14 +43,6 @@ I thrive on challenges that involve logical thinking, creative problem-solving, 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Badge" />
 </p>
-
-<p align="center">
-  <strong>Languages:</strong> Python, Java, JavaScript, HTML, CSS<br>
-  <strong>Frameworks/Libraries:</strong> React, Node.js<br>
-  <strong>Tools:</strong> Git, GitHub<br>
-  <strong>Focus Areas:</strong> DSA, Full-Stack Web Dev, AI/ML, NLP
-</p>
-
 ---
 
 ## 🏆 Interests & Focus Areas
