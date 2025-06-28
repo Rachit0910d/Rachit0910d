@@ -5,7 +5,8 @@
 <h1 align="center">Hi there, I'm Rachit Saini 👋</h1>
 
 <p align="center">
-## 💼 About Me
+## 💼<strong>About Me</strong></p>
+<p>
 As a student, I’m an enthusiastic and growth-oriented learner with a passion for:
   
 - Artificial Intelligence & Machine Learning  
@@ -17,7 +18,7 @@ I thrive on challenges that involve
                                     creative problem-solving, 
                                     developing real-world solutions.
 
----
+---</p>
 
 ## 🚀 What I'm Working On
 - Solving DSA problems on platforms like **LeetCode**
