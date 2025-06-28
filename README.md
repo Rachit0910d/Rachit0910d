@@ -5,20 +5,17 @@
 <h1 align="center">Hi there, I'm Rachit Saini 👋</h1>
 
 <p align="center">
-🎓 <strong>First-year B.Tech student at AKGEC | Future AI/ML Engineer 🚀</strong><br>
-I'm a passionate learner driven by curiosity and innovation. With a strong interest in DSA, web development, and AI/ML, I enjoy solving complex problems, building full-stack applications, and exploring how intelligent systems can shape a better future. Always eager to learn, collaborate, and create meaningful tech!
-</p>
-
----
-
 ## 💼 About Me
-I'm currently pursuing my B. Tech from **Ajay Kumar Garg Engineering College, Ghaziabad**.  
-As a 1st-year student, I’m an enthusiastic and growth-oriented learner with a passion for:
+As a student, I’m an enthusiastic and growth-oriented learner with a passion for:
+  
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms  
 - Web Development  
 
-I thrive on challenges that involve logical thinking, creative problem-solving, and developing real-world solutions.
+I thrive on challenges that involve 
+                                    logical thinking, 
+                                    creative problem-solving, 
+                                    developing real-world solutions.
 
 ---
 
@@ -55,8 +52,8 @@ I thrive on challenges that involve logical thinking, creative problem-solving, 
 ---
 
 ## 🤝 Let’s Connect!
-- 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
+- 📧 Email: *rachit.rrr2005@gmail.com**  
+- 💼 LinkedIn: [Rachit Saini](www.linkedin.com/in/rachit-saini-61638b318)  
 - 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)  
 - 🌐 Portfolio (optional): [yourportfolio.com](https://yourportfolio.com)
 
