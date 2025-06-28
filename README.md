@@ -56,11 +56,11 @@ I thrive on challenges that involve
 
 - 📧 HTML: <img src="https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f"/>
 
-- 📧 CSS:![img19 (1)](https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87)
+- 📧 CSS:<img src="https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87"/>
 
-- 📧 AI Tools: ![Certificate_page-0001](https://github.com/user-attachments/assets/8987f4b5-e017-4a1e-8504-cda87bcd7a67)
+- 📧 AI Tools: <img src="https://github.com/user-attachments/assets/8987f4b5-e017-4a1e-8504-cda87bcd7a67"/>
 
-- 📧 First Hackathon: ![WhatsApp Image 2025-05-26 at 05 54 47_20bfbd7e](https://github.com/user-attachments/assets/ea696be9-b706-47fa-8204-2a25d4db73e6)
+- 📧 First Hackathon:<img style=" width: 300px;" src="https://github.com/user-attachments/assets/ea696be9-b706-47fa-8204-2a25d4db73e6"/>
 
 
 ## 🤝 Let’s Connect!
