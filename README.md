@@ -53,14 +53,21 @@ I thrive on challenges that involve
 ---
 
 ## 🏆🚀 Cerificates
+<p>
+- 📧 <strong>HTML :</strong></p>
+- <img src="https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f"/>
 
-- 📧 HTML: <img src="https://github.com/user-attachments/assets/87afb9f7-4688-444c-9225-ae64eeb92c4f"/>
+<p>
+- 📧 <strong>CSS :</strong></p>
+- <img src="https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87"/>
 
-- 📧 CSS:<img src="https://github.com/user-attachments/assets/37254b1f-b4f7-4763-9886-aab3f5b04f87"/>
+<p>
+- 📧 <strong>AI Tools WorkShop :</strong></p>
+- <img src="https://github.com/user-attachments/assets/8987f4b5-e017-4a1e-8504-cda87bcd7a67"/>
 
-- 📧 AI Tools: <img src="https://github.com/user-attachments/assets/8987f4b5-e017-4a1e-8504-cda87bcd7a67"/>
-
-- 📧 First Hackathon:<img src="https://github.com/user-attachments/assets/ea696be9-b706-47fa-8204-2a25d4db73e6"/>
+<p>
+- 📧 <strong>First HACKATHON : Vibethon</strong></p>
+- <img src="https://github.com/user-attachments/assets/ea696be9-b706-47fa-8204-2a25d4db73e6"/>
 
 
 ## 🤝 Let’s Connect!
