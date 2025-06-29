@@ -1,19 +1,33 @@
-<p align="center">
-  <img src="https://github.com/Rachit0910d.png" alt="Rachit's GitHub Avatar" style="width:100%; max-width:250px; border-radius:50%;" />
-</p>
+
+<style>
+@keyframes flip {
+  0% { transform: rotatey(0deg); }
+  50% { transform: rotatey(180deg); }
+  100% { transform: rotatey(360deg); }
+}
+.profile-pic-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  animation: flip 4s infinite;
+  transition: transform 2s ease-in-out;
+}
+</style>
+
+<div class="profile-pic-container">
+  <img src="https://github.com/rachit0910d.png" alt="Rachit's GitHub Profile Picture" class="profile-pic" />
+</div>
 
 <h1 align="center">Hi there, I'm Rachit Saini 👋</h1>
 
-<p align="center">
-🎓 <strong>First-year B.Tech student at AKGEC | Future AI/ML Engineer 🚀</strong><br>
-I'm a passionate learner driven by curiosity and innovation. With a strong interest in DSA, web development, and AI/ML, I enjoy solving complex problems, building full-stack applications, and exploring how intelligent systems can shape a better future. Always eager to learn, collaborate, and create meaningful tech!
-</p>
-
----
-
 ## 💼 About Me
-I'm currently pursuing my B. Tech from **Ajay Kumar Garg Engineering College, Ghaziabad**.  
-As a 1st-year student, I’m an enthusiastic and growth-oriented learner with a passion for:
+I’m an enthusiastic and growth-oriented learner with a passion for:
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms  
 - Web Development  
@@ -31,82 +45,121 @@ I thrive on challenges that involve logical thinking, creative problem-solving, 
 
 ## 🧰 Skills & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Badge" />
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <strong>Languages:</strong> Python, Java, JavaScript, HTML, CSS<br>
-  <strong>Frameworks/Libraries:</strong> React, Node.js<br>
-  <strong>Tools:</strong> Git, GitHub<br>
-  <strong>Focus Areas:</strong> DSA, Full-Stack Web Dev, AI/ML, NLP
+
+<br>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
+
+<br>
+
+### 🛠️ Backend & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="60" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);" />
+</p>
+
+<br>
+
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python (for ML)" width="40" height="40"/>
+</p>
+
+<br>
 
 ---
 
-## 🏆 Interests & Focus Areas
-- 📘 Java Core Concepts & OOP  
-- 🧠 AI, Machine Learning, Deep Learning, NLP  
-- 💡 Competitive Programming with DSA  
-- 🌐 Full-Stack Web Development  
-- 🔧 Git, GitHub, and Version Control
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<br>
+
+![Rachit Saini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachit0910d&show_icons=true&theme=github_dark&count_private=true&hide=stars&hide_title=false)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rachit0910d&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- GitHub Contributions Graph -->
+[![Rachit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rachit0910d&theme=rogue)](https://github.com/Rachit0910d)
+
+</div>
 
 ---
 
-## 🏅 Certifications
+### 🔥 Most Used Languages
 
-<p align="center">
-  <img src="assets/certificates/html.jpg" alt="HTML Certificate by KnowledgeGate" width="70%" />
-</p>
-<p align="center">
-  <b>HTML Certification Test – KnowledgeGate YouTube Course</b><br>
-  <i>Certificate Number: 11732472219998860626668</i><br>
-  <a href="https://learn.knowledgegate.ai/learn/certificate/11732472219998860626668" target="_blank">Verify Here</a>
-</p>
+<div align="center">
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit0910d&layout=compact&theme=tokyonight&langs_count=10)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="assets/certificates/css.jpg" alt="CSS Certificate by KnowledgeGate" width="70%" />
-</p>
-<p align="center">
-  <b>CSS Certification Test – KnowledgeGate YouTube Course</b><br>
-  <i>Certificate Number: 11732472219947860626637</i><br>
-  <a href="https://learn.knowledgegate.ai/learn/certificate/11732472-219947" target="_blank">Verify Here</a>
-</p>
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rachit0910d&theme=onedark&margin-w=10&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="assets/certificates/be10x.jpg" alt="AI Tools Certificate by be10x" width="70%" />
-</p>
-<p align="center">
-  <b>AI Tools & ChatGPT Workshop – be10x</b><br>
-  <i>Issued on: April 6th, 2025</i>
-</p>
+### 🤝 Connect & Collaborate
+
+<div align="center">
+
+<a href="mailto:rachitsaini0910d@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rachit-saini-4047322a1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Rachit0910d&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="assets/certificates/vibethon.jpg" alt="Hackathon Participation Certificate – VIBE-A-THON" width="70%" />
-</p>
-<p align="center">
-  <b>Participation – VIBE-A-THON Hackathon (May Edition)</b><br>
-  <i>Organized by Geek Room, May 25th, 2025</i>
-</p>
+### 🧷 GitHub Badges
+
+<div align="center">
+
+<!-- GitHub Achievements Badges -->
+<img src="https://github.com/rachit0910d.png?size=100" width="0" height="0" alt="Invisible placeholder for layout"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" title="Pull Shark - Merged a pull request" alt="Pull Shark" width="90" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" title="Quickdraw - Closed an issue or pull request within 5 minutes" alt="Quickdraw" width="90" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" title="YOLO - Merged a pull request without review" alt="YOLO" width="90" />
+<br/><br/>
+
+
+</div>
 
 ---
+
 
 <p align="center">
   <i>“Striving to learn, build, and grow—one commit at a time.”</i>
 </p>
-
