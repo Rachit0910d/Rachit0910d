@@ -1,26 +1,5 @@
 
-<style>
-@keyframes flip {
-  0% { transform: rotatey(0deg); }
-  50% { transform: rotatey(180deg); }
-  100% { transform: rotatey(360deg); }
-}
-.profile-pic-container {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-.profile-pic {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  animation: flip 4s infinite;
-  transition: transform 2s ease-in-out;
-}
-</style>
-
-<div class="profile-pic-container">
+<div align="center" class="profile-pic-container">
   <img src="https://github.com/rachit0910d.png" alt="Rachit's GitHub Profile Picture" class="profile-pic" />
 </div>
 
