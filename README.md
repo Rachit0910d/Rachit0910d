@@ -3,6 +3,8 @@
 <!-- Animated Colorful Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:ffd93d,60:6bcb77,100:4d96ff&height=220&section=header&text=Rachit%20Saini&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20GitHub!%20%F0%9F%8E%89&descAlignY=60&descSize=20&descColor=ffffff" width="100%"/>
 
+<br/>
+
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=36&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey!+I'm+Rachit+Saini+👋;Full+Stack+Developer+🚀;React+%2B+Node.js+Lover+💛;Building+Cool+Stuff+Daily+🔥;Open+Source+Contributor+🌍;Let's+Build+Together!+🤝" alt="Typing SVG" />
