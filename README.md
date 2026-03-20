@@ -6,9 +6,7 @@
 <br/>
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=36&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey!+I'm+Rachit+Saini+👋;Full+Stack+Developer+🚀;React+%2B+Node.js+Lover+💛;Building+Cool+Stuff+Daily+🔥;Open+Source+Contributor+🌍;Let's+Build+Together!+🤝" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=36&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&lines=Hey!+I'm+Rachit+Saini+👋;Full+Stack+Developer+🚀;React+%2B+Node.js+Lover+💛;Building+Cool+Stuff+Daily+🔥;Open+Source+Contributor+🌍;Let's+Build+Together!+🤝)
 
 <br/>
 
