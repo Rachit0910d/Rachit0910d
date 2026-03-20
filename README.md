@@ -45,7 +45,6 @@ const rachit = {
 
 <br/>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -56,7 +55,6 @@ const rachit = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**
@@ -89,9 +87,9 @@ const rachit = {
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachitsaini)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white)](https://rachitsaini.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachitsaini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rachit-saini-61638b318)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white)](https://codsoft-eta-five.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachit.rrr2005@gmail.com)
 
 <br/>
 
