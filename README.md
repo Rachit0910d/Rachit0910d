@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/🌟-Open%20Source%20Fan-ffd93d?style=for-the-badge&labelColor=1a1a2e&color=ffd93d"/>
 <img src="https://img.shields.io/badge/🚀-Always%20Building-6bcb77?style=for-the-badge&labelColor=1a1a2e&color=6bcb77"/>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -42,8 +42,6 @@ const rachit = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rachitsaini&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff6b6b&icon_color=ffd93d&text_color=ffffff&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsaini&theme=radical&hide_border=true&background=1a1a2e&stroke=ff6b6b&ring=ffd93d&fire=ff6b6b&currStreakLabel=6bcb77"/>
-
-<br/>
 
 <br/>
 
@@ -84,10 +82,6 @@ const rachit = {
 ### 📈 Contribution Activity
 
 [![Rachit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachitsaini&bg_color=1a1a2e&color=ffd93d&line=ff6b6b&point=6bcb77&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
----
 
 <br/>
 
