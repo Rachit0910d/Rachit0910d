@@ -87,7 +87,7 @@ const rachit = {
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rachit-saini-61638b318)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachit-saini-61638b318)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white)](https://codsoft-eta-five.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachit.rrr2005@gmail.com)
 
