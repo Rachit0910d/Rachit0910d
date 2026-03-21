@@ -107,6 +107,4 @@ const rachit = {
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d96ff,30:6bcb77,60:ffd93d,100:ff6b6b&height=130&section=footer" width="100%"/>
 
-![Vibe Coding](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Vibe%20Coding&fontSize=70&animation=twinkling)
-
 </div>
