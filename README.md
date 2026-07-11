@@ -27,7 +27,7 @@ const rachit = {
   title: "Full Stack Developer 🚀",
   location: "📍 India 🇮🇳",
   languages: ["JavaScript", "TypeScript", "Python"],
-  stack: ["React", "Node.js", "MongoDB", "PostgreSQL"],
+  stack: ["React", "Node.js", "MongoDB", "MongoDB"],
   currentlyOn: "Building something that matters 💡",
   hobbies: ["Coding 👨‍💻", "Coffee ☕", "Open Source 🌍"],
   funFact: "My code works perfectly... until it doesn't 😂",
