@@ -24,10 +24,10 @@
 ```javascript
 const rachit = {
   name: "Rachit Saini",
-  title: "Full Stack Developer 🚀",
+  title: "MERN Stack Developer 🚀",
   location: "📍 India 🇮🇳",
   languages: ["JavaScript", "TypeScript", "Python"],
-  stack: ["React", "Node.js", "MongoDB", "MongoDB"],
+  stack: ["MongoDB","Express.js", "React", "Node.js"],
   currentlyOn: "Building something that matters 💡",
   hobbies: ["Coding 👨‍💻", "Coffee ☕", "Open Source 🌍"],
   funFact: "My code works perfectly... until it doesn't 😂",
